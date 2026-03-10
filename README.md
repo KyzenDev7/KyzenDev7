@@ -106,7 +106,6 @@ Still learning. Still experimenting.
 
 > Stay curious.  
 > Keep learning.  
-> Build the future.  
 > Explore the universe. 🚀
 
 ---
