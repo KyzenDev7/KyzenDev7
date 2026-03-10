@@ -15,9 +15,7 @@
 Hi, I'm **Kyzen**.
 
 I'm a student preparing for **JEE 2027** who enjoys learning about **technology, artificial intelligence, and space**.
-
-I like exploring how **software and scientific thinking** can be used to understand systems and build meaningful technology.
-
+I like exploring how **software and scientific thinking** can be used to understand systems and build meaningful technology.I love tech since child and It grows more as my curiosity increases.
 Right now I'm simply **learning, experimenting, and improving step by step**.
 
 ---
@@ -63,16 +61,15 @@ Still learning. Still experimenting.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
