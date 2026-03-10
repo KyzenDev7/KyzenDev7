@@ -1,87 +1,119 @@
-# 👋 Hello, I'm Kyzen
+<h1 align="center">Hey, I'm Kyzen 👋</h1>
 
-Lifelong Learner • Technology Enthusiast • Space Explorer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Cafe;About+Me?;Let’s+Talk;I'm+Technology+Enthusiast;I'm+Space+Explorer;I'm+Student:);Love+Open+Source❤️;Js+Learning+AI+and+Exploring+Tech&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+<img src="7824075.gif" width="600"/>
+</p>
 
 ---
-
 
 ## 🌌 About Me
 
-I'm **Kyzen**, a student passionate about **technology, science, and the universe**.
+Hi, I'm **Kyzen**.
 
-I enjoy learning how **software, artificial intelligence, and scientific thinking** can help us explore new possibilities and build meaningful technology.
+I'm a student preparing for **JEE 2027** who enjoys learning about **technology, artificial intelligence, and space**.
 
-## 🌱 Current Focus
+I like exploring how **software and scientific thinking** can be used to understand systems and build meaningful technology.
+
+Right now I'm simply **learning, experimenting, and improving step by step**.
+
+---
+
+## 🚀 What I'm Doing
 
 - 🎓 Preparing for **JEE 2027**
-- 🤖 Learning fundamentals of **Artificial Intelligence**
-- 💻 Developing skills in **software development**
-- 🌍 Exploring **open-source technologies**
-- 🚀 Studying **space and astronomy**
-- 📚 Improving **problem-solving and analytical thinking**
+- 🤖 Learning **AI fundamentals**
+- 💻 Exploring **software development**
+- 🌍 Discovering **open-source projects**
+- 🚀 Studying **space & astronomy**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
+## 🌠 Interests
 
-## 🚀 Interests
-
-- Space & Astronomy  
-- Artificial Intelligence  
-- Software Engineering  
-- Open Source Development  
-- Technology & Innovation  
+- 🌌 Space & Astronomy  
+- 🤖 Artificial Intelligence  
+- 💻 Software Engineering  
+- 🌍 Open Source Development  
+- 🔭 Future Technologies  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
+## 🛠 Tech I'm Exploring
 
-## 🛠 Tech Stack
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,react,git,github,linux,vscode,html,css"/>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
-
-## 📊 GitHub Statistics
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
+## 🌱 Currently Learning
+
+- Python  
+- AI fundamentals  
+- Software development basics  
+- Open-source collaboration  
+
+Still learning. Still experimenting.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🔥 Contribution Streak
 
+<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=kyzen-dev7&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
+## 📈 Activity Graph
 
-## 📈 Coding Activity
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyzen-dev7&theme=tokyo-night&hide_border=true"/>
 
----
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-1c4f70f2-2f67-4a9e-b8c4-5fbb4f0a5d8a.gif" width="100%">
+---
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/kyzen-dev7/kyzen-dev7/output/github-contribution-grid-snake-dark.svg">
+
+</p>
 
 ---
 
-## 🌠 Philosophy
+## 🌌 Philosophy
 
 > Stay curious.  
 > Keep learning.  
-> Explore the universe.
+> Build the future.  
+> Explore the universe. 🚀
 
 ---
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=kyzen-dev7&label=Profile%20Views&color=blue&style=flat"/>
+</p>
