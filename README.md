@@ -1,7 +1,7 @@
 <h1 align="center">👋Hey, I'm Kyzen!</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Cafe;About+Me?;Let’s+Talk;I'm+Technology+Enthusiast;I'm+Space+Explorer;I'm+Student:);Love+Open+Source❤️;Js+Learning+AI+and+Exploring+Tech&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Cafe;About+Me?;Let’s+Talk;I'm+Technology+Enthusiast;A+Space+Explorer;Also+A+Student:);I+Love+Open+Source❤️;Js+Learning+AI+and+Exploring+Tech&center=true&width=520&height=45">
 </p>
 
 <p align="center">
