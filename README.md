@@ -1,7 +1,7 @@
 <h1 align="center">👋Hey, I'm Kyzen!</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Cafe;About+Me?;Let’s+Talk;I'm+Technology+Enthusiast;A+Space+Explorer;Also+A+Student:);I+Love+Open+Source❤️;Js+Learning+AI+and+Exploring+Tech&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Cafe;About+Me?;Let’s+Talk;I'm+Technology+Enthusiast;A+Space+Explorer;Also+A+Student:);I+Love+Open+Source❤️;Js+Learning+Code+and+Exploring+Tech&center=true&width=520&height=45">
 </p>
 
 <p align="center">
@@ -14,26 +14,28 @@
 
 Hi, I'm **Kyzen**.
 
-I'm a student preparing for **JEE 2027** who enjoys learning about **technology, artificial intelligence, and space**.
-I like exploring how **software and scientific thinking** can be used to understand systems and build meaningful technology.I love tech since child and It grows more as my curiosity increases.
+I'm a student who enjoys learning about **technology and space**.
+I like exploring how **software and scientific thinking** can be used to understand systems and build meaningful technology.I love tech since child and It grows more as my curiosity increases.I speak through code.
 Right now I'm simply **learning, experimenting, and improving step by step**.
 
 ---
 
 ## 🚀 What I'm Doing
 
-- 🎓 Preparing for **JEE 2027**
-- 🤖 Learning **AI fundamentals**
-- 💻 Exploring **software development**
-- 🌍 Discovering **open-source projects**
-- 🚀 Studying **space & astronomy**
+- 🔎 Exploring Code
+- 🥽 Learning Cybersecurity 
+- 💻 Exploring software development
+- 🌍 Discovering open-source projects
+- 🚀 Studying space & astronomy
 
 ---
 
 ## 🌠 Interests
 
 - 🌌 Space & Astronomy  
-- 🤖 Artificial Intelligence  
+- 🤖 Artificial Intelligence
+- 🥽 Cybersecurity
+- ⌨️ Web Development  
 - 💻 Software Engineering  
 - 🌍 Open Source Development  
 - 🔭 Future Technologies  
@@ -44,7 +46,7 @@ Right now I'm simply **learning, experimenting, and improving step by step**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,docker,vscode,arch,debian"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,js,ts,go,rust,git,github,docker,vscode,arch,debian,html,css,react,nodejs" />
 
 </p>
 
@@ -52,10 +54,11 @@ Right now I'm simply **learning, experimenting, and improving step by step**.
 
 ## 🌱 Currently Learning
 
-- Python  
-- AI fundamentals  
-- Software development basics  
-- Open-source collaboration  
+- Artificial Intelligence 
+- Cybersecurity
+- Exploring Language 
+- Software development 
+- Open-source Development 
 
 Still learning. Still experimenting.
 
@@ -104,7 +107,7 @@ Still learning. Still experimenting.
 ---
 
 ## 🌌 Philosophy
-
+I'm not a philosopher but 
 > Stay curious.  
 > Keep learning.  
 > Explore the universe. 🚀
