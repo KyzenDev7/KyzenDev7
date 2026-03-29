@@ -32,7 +32,8 @@ Right now I'm simply **learning, experimenting, and improving step by step**.
 
 ## 🌠 Interests
 
-- 🌌 Space & Astronomy  
+- 🌌 Space & Astronomy
+- ⚒️ Low Level Development 
 - 🤖 Artificial Intelligence
 - 🥽 Cybersecurity
 - ⌨️ Web Development  
@@ -54,6 +55,7 @@ Right now I'm simply **learning, experimenting, and improving step by step**.
 
 ## 🌱 Currently Learning
 
+- Low Level Programming 
 - Artificial Intelligence 
 - Cybersecurity
 - Exploring Language 
@@ -103,14 +105,6 @@ Still learning. Still experimenting.
 <img src="https://raw.githubusercontent.com/kyzendev7/kyzendev7/output/github-contribution-grid-snake-dark.svg">
 
 </p>
-
----
-
-## 🌌 Philosophy
-I'm not a philosopher but 
-> Stay curious.  
-> Keep learning.  
-> Explore the universe. 🚀
 
 ---
 
