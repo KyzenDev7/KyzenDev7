@@ -1,2 +1,2 @@
-Hello,I love tech and space stuff.
-Coming soon 
+Hello,I'm Kyzen, I love Programming When I was 11 years old. I also love new Technology, Innovation and Space.
+I just Exploring, Experimenting and Experience From it. That's all 😄
